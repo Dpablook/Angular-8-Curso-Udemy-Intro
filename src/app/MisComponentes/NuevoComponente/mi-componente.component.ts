@@ -15,7 +15,7 @@ import { Component } from '@angular/core';
         <li><a href="#">Contacto</a></li>
       </ul>
   </nav>
-  
+  <h1>prueba superada</h1>
   `
 })
 export class MiComponente{
