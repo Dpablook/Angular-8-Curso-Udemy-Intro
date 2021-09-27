@@ -14,3 +14,5 @@ platformBrowserDynamic().bootstrapModule(AppModule).then(ref => {
 
   // Otherwise, log the boot error
 }).catch(err => console.error(err));
+
+//Archivo princial de typescrit donde se carga el nucleo del Framework
